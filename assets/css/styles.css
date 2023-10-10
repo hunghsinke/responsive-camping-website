@@ -96,6 +96,7 @@ img {
   position: relative;
   height: var(--header-height);
   display: flex;
+  justify-content: space-between;
 }
 /* Navigation for mobile devices */
 
